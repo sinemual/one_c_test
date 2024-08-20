@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73edc2c489404d79990e4cf596a11996, type: 3}
+  m_Name: EasyEnemyUnitData
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 3513431779632614560, guid: e148a0f97d3b8ad41a4abc5b1842086a, type: 3}
+  MoveSpeed: {x: 0.52818894, y: 0.85043395}
+  Health: 3
+  Damage: 1
+  EnemyType: 0
